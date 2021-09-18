@@ -8,9 +8,5 @@ Nombre: Carlos Niño.
 <br>
 Profesor: Fabian Peña. 
 </p>
+ :page_facing_up: PARCIAL 1, PARTE PRACTICA
 
----------------------------
-
-<p align="center">
-    :page_facing_up: PARCIAL 1, PARTE PRACTICA
-</p>
